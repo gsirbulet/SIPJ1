@@ -17,7 +17,7 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ### [Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1/unidad1.md)  
 ### [SP1](SP1/sp1.md)
-### [SP1](SP2/sp2.md)
-### [SP1](SP3/sp3.md)
-### [SP1](SP4/sp4.md)
+### [SP2](SP2/sp2.md)
+### [SP3](SP3/sp3.md)
+### [SP4](SP4/sp4.md)
 
