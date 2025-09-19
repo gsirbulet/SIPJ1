@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: "Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius"
+title: "Sprint 1:Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius"
 
 ---
 
