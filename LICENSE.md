@@ -31,3 +31,4 @@ Se debe dar crédito adecuado, proporcionar un enlace a esta licencia e indicar 
 
 Dir que llicencia utilitza Ubuntu (GNJ)i que es, ficar fonts. AIxo se fa debaix del punt de llicencia.  Cambiar la llicencia de git hub.
 Creative common.
+Crear maquina virtual ubuntu 80gb,
