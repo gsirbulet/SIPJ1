@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius"
-
+---
 
 ## Virualització i instal·lació del SO Ubuntu.
 ### Llicenciament
