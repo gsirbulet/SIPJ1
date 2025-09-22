@@ -16,7 +16,7 @@ https://mireiaconsarnau.github.io/machine_learning/
 
 ## Llicència
 
-Aquest projecte està llicenciat sota la [GNU General Public License v3.0](./LICENSE).
+Aquest projecte està llicenciat sota la [GNU General Public License v3.0](./LICENSE.md).
 
 © 2025 Gheorghe Sirbulet
 
