@@ -14,12 +14,16 @@ Este repositorio está preparado para ser publicado con GitHub Pages.
 Puedes ver la versión web pública en:  
 https://mireiaconsarnau.github.io/machine_learning/
 
-## Licencia
+## Llicència
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+Aquest projecte està llicenciat sota la [GNU General Public License v3.0](./LICENSE).
 
+© 2025 Gheorghe Sirbulet
 
 ---
 
-© 2025 Mireia Consarnau
+### Llicència d'Ubuntu
 
+El sistema operatiu Ubuntu utilitza principalment la **GNU General Public License (GPL)** per a la distribució del seu programari, especialment pel que fa al nucli de Linux. Aquesta llicència garanteix les llibertats d'executar, estudiar, modificar i compartir el programari.
+
+**Font:** [Ubuntu Licensing | ubuntu.com](https://ubuntu.com/licensing)
