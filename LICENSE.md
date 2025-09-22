@@ -673,15 +673,3 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
-
- 
-## Llicència
-
-Aquest projecte està llicenciat sota la [GNU General Public License v3.0](./LICENSE).
-
-### Llicència d'Ubuntu
-
-El sistema operatiu Ubuntu utilitza principalment la **GNU General Public License (GPL)** per a la distribució del seu programari, especialment pel que fa al nucli de Linux. Aquesta llicència garanteix les llibertats d'executar, estudiar, modificar i compartir el programari.
-
-**Font:** [Ubuntu Licensing | ubuntu.com](https://ubuntu.com/licensing)
-
